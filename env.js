@@ -1,3 +1,3 @@
 module.exports = {
-  BotToken: ""
+  BotToken: "Bot Token From Dev Porttal Here"
 }
