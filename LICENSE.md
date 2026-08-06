@@ -2,4 +2,4 @@
 
 Copyright (c) 2026 darkguyidk
 
-You are required to give credit to [the original project](https://github.com/darkguyidk/Or-or-or-or-or-bot/) a very obvious area of your project
+You are required to give credit to [the original project](https://github.com/darkguyidk/Or-or-or-or-or-bot/) a very obvious area of your project if you make a fork or copy or use any of this code or anything like that
